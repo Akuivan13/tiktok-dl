@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/download/tiktok/:url*",
+      "dest": "/SocialDownloader/tiktok"
+    }
+  ]
+}
